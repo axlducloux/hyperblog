@@ -4,15 +4,11 @@ Tiene 24 años y es de la CDMX, hoy hablaremos de su historia.
 
 Anita tiene 34 años y es de la ciudad de Monterrey, Nvo León
 
-<<<<<<< HEAD
+Experimento 1 
+
 Master 1
 
 Master 2
-=======
-Experimento 1 
-
-Master 1 
->>>>>>> 2552448 (Exp 1)
 
 Hoy nos enfocaremos en su vida laboral.
 
